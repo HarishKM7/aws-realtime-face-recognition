@@ -1,1 +1,2 @@
-# aws-realtime-face-recognition
+# AWS Realtime Face Recognition
+![](architecture.png)
